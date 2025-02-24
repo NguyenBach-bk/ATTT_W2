@@ -3,5 +3,7 @@ Lập trình thuật toán mã hoá Playfair, chỉ sử dụng các hàm cơ b�
 
 
 Input: Bản rõ 
+
 Key: Tự định nghĩa 
+
 Output: Bản mã 
